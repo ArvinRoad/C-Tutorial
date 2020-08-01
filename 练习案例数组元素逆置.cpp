@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {	//43
+int main43() {
 	
 	int arr[5] = { 1,3,2,5,40 };
 	cout << "Êı×éÄæÖÃÇ°£º" << endl;
