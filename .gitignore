@@ -17,6 +17,7 @@ Saved
 *.tlog
 *.txt
 *.idb
-*.pad
+*.pdb
+*.log
 *.ilk
 
