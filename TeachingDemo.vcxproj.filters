@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\运算符">
+      <UniqueIdentifier>{fa1e2324-50da-4d88-a4a9-cc5f4ad93978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\程序流程结构">
+      <UniqueIdentifier>{3e37b1b3-b747-4723-8962-140b7f8f14a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++基础">
+      <UniqueIdentifier>{13f92224-d108-4100-b84e-e498e435ac34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\程序流程结构\选择结构">
+      <UniqueIdentifier>{ffdb006e-2b0b-4d06-8a06-bba434904345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\程序流程结构\循环结构">
+      <UniqueIdentifier>{32a72e31-3bea-4906-9d0b-75227061fb69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\程序流程结构\跳转语句">
+      <UniqueIdentifier>{9a0fd819-b70f-4c7c-879d-90bb930e12d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\数组">
+      <UniqueIdentifier>{9853af4d-b331-4414-9c34-aae00851e72c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实战开发">
+      <UniqueIdentifier>{33a97d1e-e8f1-4fbf-b6bc-129aa487a6ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实战开发\家庭账本管理系统">
+      <UniqueIdentifier>{b17f0383-2ba5-413d-bbdc-654fd59a3475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="算术运算_加减乘除.cpp">
+      <Filter>源文件\运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="算术运算_取模.cpp">
+      <Filter>源文件\运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="算术运算_递增递减.cpp">
+      <Filter>源文件\运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="赋值运算.cpp">
+      <Filter>源文件\运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="算术运算_比较运算.cpp">
+      <Filter>源文件\运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="算术运算_逻辑运算.cpp">
+      <Filter>源文件\运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="01 C++书写Hello World.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof示例.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="变量示例.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="布尔类型示例.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="常量示例.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="浮点类型示例.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="数据输入.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串类型示例C.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串类型示例C++.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="字符型示例.cpp">
+      <Filter>源文件\C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="选择结构_if语句单行格式.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="选择结构_if语句多行格式.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="选择结构_if语句多条件.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="选择结构_嵌套if语句.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例小猪称重.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="选择结构_三目运算符.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="选择结构_switch语句.cpp">
+      <Filter>源文件\程序流程结构\选择结构</Filter>
+    </ClCompile>
+    <ClCompile Include="循环结构_while语句.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例猜数字.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="循环结构_do…while循环.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例水仙花数.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="循环结构_for语句.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例敲桌子.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="循环结构_嵌套循环.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套循环案例_乘法口诀表.cpp">
+      <Filter>源文件\程序流程结构\循环结构</Filter>
+    </ClCompile>
+    <ClCompile Include="跳转语句_break示例1.cpp">
+      <Filter>源文件\程序流程结构\跳转语句</Filter>
+    </ClCompile>
+    <ClCompile Include="跳转语句_break示例2.cpp">
+      <Filter>源文件\程序流程结构\跳转语句</Filter>
+    </ClCompile>
+    <ClCompile Include="跳转语句_break示例3.cpp">
+      <Filter>源文件\程序流程结构\跳转语句</Filter>
+    </ClCompile>
+    <ClCompile Include="跳转语句_continue.cpp">
+      <Filter>源文件\程序流程结构\跳转语句</Filter>
+    </ClCompile>
+    <ClCompile Include="跳转语句_goto.cpp">
+      <Filter>源文件\程序流程结构\跳转语句</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_数组定义类型示例1.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_数组定义类型示例2.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_利用循环输出数组元素.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_数组定义类型示例3.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="家庭账本管理系统.cpp">
+      <Filter>源文件\实战开发\家庭账本管理系统</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_数组名.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例五只小猪称体重.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例数组元素逆置.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utility.h">
+      <Filter>源文件\实战开发\家庭账本管理系统</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
