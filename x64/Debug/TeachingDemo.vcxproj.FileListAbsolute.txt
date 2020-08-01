@@ -1,2 +1,0 @@
-F:\C++文件\TeachingDemo\x64\Debug\TeachingDemo.exe
-F:\C++文件\TeachingDemo\x64\Debug\TeachingDemo.pdb

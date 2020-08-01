@@ -13,3 +13,9 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *.obj
+*.exe
+*.tlog
+*.txt
+.*idb
+.pad
+.*ilk
