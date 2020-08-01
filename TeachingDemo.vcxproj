@@ -141,6 +141,15 @@
   <ItemGroup>
     <ClCompile Include="01 C++书写Hello World.cpp" />
     <ClCompile Include="sizeof示例.cpp" />
+    <ClCompile Include="函数_值传递.cpp" />
+    <ClCompile Include="函数_函数的声明.cpp" />
+    <ClCompile Include="函数_函数的定义.cpp" />
+    <ClCompile Include="函数_函数的常见类型无参无返.cpp" />
+    <ClCompile Include="函数_函数的常见类型无参有返.cpp" />
+    <ClCompile Include="函数_函数的常见类型有参无返.cpp" />
+    <ClCompile Include="函数_函数的常见类型有参有返.cpp" />
+    <ClCompile Include="函数_函数的调用.cpp" />
+    <ClCompile Include="函数_分文件编写.cpp" />
     <ClCompile Include="数组_二维数据定义方式示例3.cpp" />
     <ClCompile Include="数组_二维数据定义方式示例4.cpp" />
     <ClCompile Include="数组_二维数组名.cpp" />
@@ -192,6 +201,7 @@
     <ClCompile Include="选择结构_嵌套if语句.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="swap.h" />
     <ClInclude Include="Utility.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

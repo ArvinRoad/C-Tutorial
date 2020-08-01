@@ -46,6 +46,9 @@
     <Filter Include="源文件\函数">
       <UniqueIdentifier>{4d5c5af3-c25f-4f00-b551-135ff6c48351}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\函数\函数分文件编写">
+      <UniqueIdentifier>{72231550-7e9d-4274-b9bb-bb6ddcc7513c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="算术运算_加减乘除.cpp">
@@ -201,10 +204,40 @@
     <ClCompile Include="练习案例考试成绩统计.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="函数_函数的定义.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_函数的调用.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_值传递.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_函数的常见类型无参无返.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_函数的常见类型有参无返.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_函数的常见类型无参有返.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_函数的常见类型有参有返.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_函数的声明.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数_分文件编写.cpp">
+      <Filter>源文件\函数\函数分文件编写</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utility.h">
       <Filter>源文件\实战开发\家庭账本管理系统</Filter>
+    </ClInclude>
+    <ClInclude Include="swap.h">
+      <Filter>源文件\函数\函数分文件编写</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
