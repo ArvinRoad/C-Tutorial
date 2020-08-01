@@ -141,6 +141,11 @@
   <ItemGroup>
     <ClCompile Include="01 C++书写Hello World.cpp" />
     <ClCompile Include="sizeof示例.cpp" />
+    <ClCompile Include="数组_二维数据定义方式示例3.cpp" />
+    <ClCompile Include="数组_二维数据定义方式示例4.cpp" />
+    <ClCompile Include="数组_二维数组定义方式示例1.cpp" />
+    <ClCompile Include="数组_二维数组定义方式示例2.cpp" />
+    <ClCompile Include="算法_冒泡排序.cpp" />
     <ClCompile Include="变量示例.cpp" />
     <ClCompile Include="字符串类型示例C++.cpp" />
     <ClCompile Include="字符串类型示例C.cpp" />
