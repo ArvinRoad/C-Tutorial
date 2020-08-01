@@ -43,6 +43,9 @@
     <Filter Include="源文件\算法">
       <UniqueIdentifier>{9d14636b-90ec-4aa3-afcc-00464a8eb5aa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\函数">
+      <UniqueIdentifier>{4d5c5af3-c25f-4f00-b551-135ff6c48351}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="算术运算_加减乘除.cpp">
@@ -190,6 +193,12 @@
       <Filter>源文件\数组</Filter>
     </ClCompile>
     <ClCompile Include="数组_二维数据定义方式示例4.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_二维数组名.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例考试成绩统计.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
   </ItemGroup>

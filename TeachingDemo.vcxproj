@@ -143,6 +143,7 @@
     <ClCompile Include="sizeof示例.cpp" />
     <ClCompile Include="数组_二维数据定义方式示例3.cpp" />
     <ClCompile Include="数组_二维数据定义方式示例4.cpp" />
+    <ClCompile Include="数组_二维数组名.cpp" />
     <ClCompile Include="数组_二维数组定义方式示例1.cpp" />
     <ClCompile Include="数组_二维数组定义方式示例2.cpp" />
     <ClCompile Include="算法_冒泡排序.cpp" />
@@ -176,6 +177,7 @@
     <ClCompile Include="练习案例敲桌子.cpp" />
     <ClCompile Include="练习案例水仙花数.cpp" />
     <ClCompile Include="练习案例猜数字.cpp" />
+    <ClCompile Include="练习案例考试成绩统计.cpp" />
     <ClCompile Include="赋值运算.cpp" />
     <ClCompile Include="跳转语句_break示例2.cpp" />
     <ClCompile Include="跳转语句_break示例1.cpp" />
