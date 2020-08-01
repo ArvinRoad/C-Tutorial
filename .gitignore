@@ -16,6 +16,7 @@ Saved
 *.exe
 *.tlog
 *.txt
-.*idb
-.pad
-.*ilk
+*.idb
+*.pad
+*.ilk
+
