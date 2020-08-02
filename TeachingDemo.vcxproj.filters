@@ -49,6 +49,12 @@
     <Filter Include="源文件\函数\函数分文件编写">
       <UniqueIdentifier>{72231550-7e9d-4274-b9bb-bb6ddcc7513c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\指针">
+      <UniqueIdentifier>{c442635c-e77f-4285-856e-c0666eb45649}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\结构体">
+      <UniqueIdentifier>{cd03e683-e815-4a30-a988-1c027ec84193}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="算术运算_加减乘除.cpp">
@@ -230,6 +236,30 @@
     </ClCompile>
     <ClCompile Include="函数_分文件编写.cpp">
       <Filter>源文件\函数\函数分文件编写</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_指针变量的定义和使用.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_指针所占内存空间.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_空指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_野指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_const修饰指针.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_指针和数组.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="指针_指针和函数.cpp">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="练习案例指针实现冒泡升序.cpp">
+      <Filter>源文件\指针</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

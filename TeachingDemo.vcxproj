@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -150,6 +150,13 @@
     <ClCompile Include="函数_函数的常见类型有参有返.cpp" />
     <ClCompile Include="函数_函数的调用.cpp" />
     <ClCompile Include="函数_分文件编写.cpp" />
+    <ClCompile Include="指针_const修饰指针.cpp" />
+    <ClCompile Include="指针_指针变量的定义和使用.cpp" />
+    <ClCompile Include="指针_指针和函数.cpp" />
+    <ClCompile Include="指针_指针和数组.cpp" />
+    <ClCompile Include="指针_指针所占内存空间.cpp" />
+    <ClCompile Include="指针_空指针.cpp" />
+    <ClCompile Include="指针_野指针.cpp" />
     <ClCompile Include="数组_二维数据定义方式示例3.cpp" />
     <ClCompile Include="数组_二维数据定义方式示例4.cpp" />
     <ClCompile Include="数组_二维数组名.cpp" />
@@ -182,6 +189,7 @@
     <ClCompile Include="算术运算_逻辑运算.cpp" />
     <ClCompile Include="练习案例五只小猪称体重.cpp" />
     <ClCompile Include="练习案例小猪称重.cpp" />
+    <ClCompile Include="练习案例指针实现冒泡升序.cpp" />
     <ClCompile Include="练习案例数组元素逆置.cpp" />
     <ClCompile Include="练习案例敲桌子.cpp" />
     <ClCompile Include="练习案例水仙花数.cpp" />
