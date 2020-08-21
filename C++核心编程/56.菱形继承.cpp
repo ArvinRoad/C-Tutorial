@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
-class Animal {	//动物类，虚基类
+class Animal4 {	//动物类，虚基类
 public:
 	int M_Age;
 };
-class Sheep :virtual public Animal {	//羊类，虚继承
+class Sheep :virtual public Animal4 {	//羊类，虚继承
 
 };
-class Tuo :virtual public Animal {	//驼类
+class Tuo :virtual public Animal4 {	//驼类
 
 };
 class SheepTuo :public Sheep, public Tuo {
