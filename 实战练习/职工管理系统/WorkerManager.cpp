@@ -357,6 +357,11 @@ void WorkerManager::Clen_File() {
 
 WorkerManager::~WorkerManager() {
 	if (this->M_EmpArray != NULL) {
+		for (int i = 0;i < this->M_EmpNum;i++) {
+			if (this->M_EmpArray[i] != NULL) {
+				delete this->M_EmpArray[i];
+			}
+		}
 		delete[]this->M_EmpArray;
 		this->M_EmpArray = NULL;
 	}
